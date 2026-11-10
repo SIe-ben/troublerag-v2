@@ -1,0 +1,9 @@
+streamlit
+chromadb
+sentence-transformers
+rank-bm25
+scikit-learn
+plotly
+pandas
+groq
+requests
